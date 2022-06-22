@@ -3,6 +3,10 @@ command line and GUI scripts that retrieve the N50, L50, N90 and L90 values from
 
 Based by: [n50.py](https://gist.github.com/dinovski/2bcdcc770d5388c6fcc8a656e5dbe53c)
 
+## Executables(no dependences required)
+1. linux command line executable: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6683851.svg)](https://doi.org/10.5281/zenodo.6683851)  
+2. windows GUI executable: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6683873.svg)](https://doi.org/10.5281/zenodo.6683873)
+
 ## Dependences
 1. python 3.8.3 or later
 2. argparse (for the command line script only) `pip install argparse`
