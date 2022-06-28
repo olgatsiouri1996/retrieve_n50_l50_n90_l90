@@ -19,7 +19,7 @@ To run the command line version of the script you need to give at least 1 of the
 
 ![](img/cmdline_arguments.png)
 
-e.g `python3 retrieve_n50_l50_n90_l90.py -dir fastadir/ -txt stats.txt`
+e.g. `python3 retrieve_n50_l50_n90_l90.py -dir fastadir/ -txt stats.txt`
 
 To run the GUI version you need to type: `python3 retrieve_n50_l50_n90_l90_gui.py` on the terminal and a window will pop up
 
