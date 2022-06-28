@@ -1,4 +1,4 @@
-# retrieve_n50_l50_n90_l90
+# retrieve_n50_l50_n90_l90 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6771722.svg)](https://doi.org/10.5281/zenodo.6771722)
 command line and GUI scripts that retrieve the N50, L50, N90 and L90 values from input multi-fasta files
 
 Based by: [n50.py](https://gist.github.com/dinovski/2bcdcc770d5388c6fcc8a656e5dbe53c)
