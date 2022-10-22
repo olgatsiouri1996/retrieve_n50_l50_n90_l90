@@ -5,7 +5,7 @@ Based by: [n50.py](https://gist.github.com/dinovski/2bcdcc770d5388c6fcc8a656e5db
 
 ## Executables(no dependences required)
 1. linux command line executable: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6683851.svg)](https://doi.org/10.5281/zenodo.6683851)  
-2. Windows and linux GUI executable: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6683873.svg)](https://doi.org/10.5281/zenodo.6683873)
+2. Windows and linux GUI executable: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7237086.svg)](https://doi.org/10.5281/zenodo.7237086)
 
 ## Dependences
 1. python 3.8.3 or later
